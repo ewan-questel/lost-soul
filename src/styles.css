@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  background-color: rgb(52, 0, 71);
+  padding-left: 30px;
+  background-image: url("src/assets/Overlay4.png");
+}
+canvas {
+  margin-top: 50vh;
+  transform: translateY(-50%);
+}
